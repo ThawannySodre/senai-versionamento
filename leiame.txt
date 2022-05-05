@@ -1,0 +1,7 @@
+"LEIA-ME"
+
+Projeto desenvolvido para estudo de versionamentos em TI. Por Thawanny_Sodre
+
+
+
+05/05/2022- Início e Criação do Projeto Versionamento,Utilização do GIT e GITHUB
